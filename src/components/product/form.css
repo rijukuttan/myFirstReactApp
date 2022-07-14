@@ -1,0 +1,13 @@
+form{
+ 
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+   
+}
+.formHeader{
+    background-color: #f0ad4e;
+    border-radius: 5%;
+    padding: 2%;
+    color:black;
+    /* color: aliceblue;
+ */}
